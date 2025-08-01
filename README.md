@@ -1,5 +1,3 @@
-# ZaiProject
-Projet ZaiParadize avec diverses fonctions
 # 🌟 ZaiParadize - Serveur Dofus 2.51 🌟
 
 Bienvenue dans l'univers **ZaiParadize**, un projet ambitieux et passionné autour de l'émulation **Dofus 2.51**, conçu pour offrir une expérience enrichie et moderne 🎮✨
